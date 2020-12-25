@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.example.kinesisdemo.config.LocalStackAutoConfiguration, com.example.kinesisdemo.config.KinesisClientConfiguration
